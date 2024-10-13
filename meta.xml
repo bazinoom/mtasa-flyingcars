@@ -1,0 +1,4 @@
+<meta>
+    <script src="c_flying_car.lua" type="client" />
+    <script src="c_cars.lua" type="client" />
+</meta>
